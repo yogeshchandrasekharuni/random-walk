@@ -5,7 +5,8 @@
 - Many theoretical models are built using the random-walk process such as Brownian-motion, Fermi-estimation, etc. The real-world sees its own share of this implementation in the form of gambling models, size of the internet and so on.[1]
 
 
-![caption](https://user-images.githubusercontent.com/46783458/113971024-9129a600-9855-11eb-8d0a-b5d6937ead69.mp4)
+![Random-walk with 5 walkers](https://user-images.githubusercontent.com/46783458/113971458-7146b200-9856-11eb-81f5-fa5e62ab33d6.gif)
+
 
 
 
